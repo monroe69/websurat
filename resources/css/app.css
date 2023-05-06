@@ -1,0 +1,9 @@
+@import "toastr";
+@import "~select2/dist/css/select2.css";
+
+@import "./myStyle.css";
+@import "./lightbox.css";
+
+/* #toast-container > .toast-success {
+    background-color: #0d1d5e !important;
+} */
